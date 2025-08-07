@@ -19,7 +19,7 @@ This versatile offline file conversion tool supports multiple formats:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/file-converter.git
+git clone https://github.com/khaledouriemmi/Loconverter.git
 cd file-converter
 ```
 
